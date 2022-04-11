@@ -1,5 +1,5 @@
 # datastructures-implementation-cpp
-Implementation of standard data structures in c++, for the purpose of practice and learning c++.
+Implementation of standard data structures in c++, for the purpose of practice and learning c++.<br/>
 -Dynamic List<br/>
 -Linked List<br/>
 -Stack<br/>
