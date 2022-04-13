@@ -8,4 +8,5 @@ Implementation of standard data structures in c++, for the purpose of practice a
 -Hash Table<br/>
 -Binary Tree<br/>
 -Binary Search Tree<br/>
+-Trie<br/>
 
